@@ -1,5 +1,6 @@
 # mobipi
 ###Robozinho feito com raspberry pi
+[Youtube Video] (https://www.youtube.com/watch?v=YQNaTBZ3wAs)
 <img src="/images/20161015_150822.jpg" width="600">
 
 ###Requisitos python
