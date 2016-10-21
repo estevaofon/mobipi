@@ -1,6 +1,6 @@
 # mobipi
 ###Robozinho feito com raspberry pi
-<img src="/images/20161015_150822.jpg" width="500">
+<img src="/images/20161015_150822.jpg" width="600">
 
 ###Requisitos python
 * Pygame
@@ -15,10 +15,10 @@
 * Pilhas AA x 4
 
 ###Circuito
-<img src="/images/roverpischema.jpg" width="500">
+<img src="/images/roverpischema.jpg" width="600">
 
 ###Tabela do circuito
-<img src="/images/tabela-circuito.png" width="500">
+<img src="/images/tabela-circuito.png" width="400">
 
 ###Pinos GPIO
-<img src="/images/tyWGmW.png" width="500">
+<img src="/images/yWGmW.png" width="500">
