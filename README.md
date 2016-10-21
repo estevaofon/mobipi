@@ -1,11 +1,10 @@
 # mobipi
 ###Robozinho feito com raspberry pi
-![Alt text](/images/20161015_150822.jpg?raw=true "mobipi" =300x)
+<img src="/images/20161015_150822.jpg" width="300">
 
 ###Requisitos python
 * Pygame
 * RPi.GPIO
 
 ###Circuito
-![Alt text](/images/roverpischema.jpg?raw=true "circuito" =300x)
-
+<img src="/images/roverpischema.jpg" width="300">
