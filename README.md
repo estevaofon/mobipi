@@ -21,7 +21,7 @@
 <img src="/images/roverpischema.jpg" width="600">
 
 ###Tabela do circuito
-<img src="/images/tabela-circuito.png" width="400">
+<img src="/images/tabela-circuito-2.png" width="400">
 
 ###Pinos GPIO
 <img src="/images/yWGmW.png" width="500">
