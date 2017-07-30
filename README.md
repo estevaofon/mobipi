@@ -3,7 +3,7 @@
 
 <img src="/images/20161015_150822.jpg" width="600">
 
-[Youtube Video] (https://www.youtube.com/watch?v=YQNaTBZ3wAs)
+[Youtube Video](https://www.youtube.com/watch?v=YQNaTBZ3wAs)
 
 ### Requisitos python
 * Pygame
